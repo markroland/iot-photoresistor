@@ -20,6 +20,8 @@ graphed in near real-time on a web page.
 
 1) Build the circuit on the breadboard
 
+![Circuit Diagram](https://github.com/markroland/iot-photoresistor/blob/master/schematic/schematic.png)
+
 2) Load the `Arduino/Photoresistor.ino` sketch to the Arduino board
 
 3) Connect the Arduino to the Raspberry Pi (if not already connected)
