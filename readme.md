@@ -10,7 +10,7 @@ graphed in near real-time on a web page.
    - Running Raspbian GNU/Linux 8 (jessie)
    - Requires Python 2.7
  - Power Supply for Raspberry Pi
- - USB to USB Micro cable (Type A on both ends)
+ - USB to Micro-B cable
  - Breadboard
  - 10k Resistor
  - Photoresistor (Cad)
